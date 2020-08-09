@@ -1,4 +1,4 @@
-**Configure ZyXel modem in bridged mode**
+**Configure your Online.nl ZyXel modem in bridged mode**
 
 Login to your ZyXel modem.
 

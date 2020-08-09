@@ -14,6 +14,6 @@ Change **Mode** from **Route** to **Bridge**.
 
 Leave the **Vlan** setings as is.
 
-Configure your own router on WAN DHCP and change the MAC address of your routers WAN interfac to the MAC address from your ZyXel modem.
+Configure your own router on WAN DHCP and change the MAC address of your routers WAN interface to the MAC address from your ZyXel modem.
 
 Restart your ZyXel modem and your own router and everything will work right away.
